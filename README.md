@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ![Babel](https://img.shields.io/badge/-Babel-%23142027?style=flat-square&logo=babel)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23142027?style=flat-square&logo=prettier)
+![Phaser3](https://img.shields.io/badge/-Phaser3-%23F05032?style=flat-square&color=%23C17344)
+![Lerna](https://img.shields.io/badge/-Lerna-%23F05032?style=flat-square&color=%231F515C)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 <!-- 
