@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 250989770@qq.com
 - 😄 Pronouns: The builders
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rlagnl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rlagnl)](https://github.com/anuraghazra/github-readme-stats)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
