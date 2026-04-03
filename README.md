@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ![Phaser3](https://img.shields.io/badge/-Phaser3-%23F05032?style=flat-square&color=%23C17344&logo=phaser)
 ![Lerna](https://img.shields.io/badge/-Lerna-%23F05032?style=flat-square&color=%231F515C&logo=lerna)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![React](https://img.shields.io/badge/-react-%2361DAFB?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-react-%2361DAFB?style=flat-square&logo=react&logoColor=%23ffffff)
 
 <!-- 
 - 👯 I’m looking to collaborate on ... 
