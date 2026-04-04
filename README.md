@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 250989770@qq.com
 - 😄 Pronouns: The builders
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rlagnl)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rlagnl&theme=algolia" width="500" height="250">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -19,9 +21,11 @@ Here are some ideas to get you started:
 ![Babel](https://img.shields.io/badge/-Babel-%23142027?style=flat-square&logo=babel)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23142027?style=flat-square&logo=prettier)
-![Phaser3](https://img.shields.io/badge/-Phaser3-%23F05032?style=flat-square&color=%23C17344)
-![Lerna](https://img.shields.io/badge/-Lerna-%23F05032?style=flat-square&color=%231F515C)
+![Phaser3](https://img.shields.io/badge/-Phaser3-%23F05032?style=flat-square&color=%23C17344&logo=phaser)
+![Lerna](https://img.shields.io/badge/-Lerna-%23F05032?style=flat-square&color=%231F515C&logo=lerna)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![React](https://img.shields.io/badge/-react-%2361DAFB?style=flat-square&logo=react&logoColor=%23ffffff)
+![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 <!-- 
 - 👯 I’m looking to collaborate on ... 
