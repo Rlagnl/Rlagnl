@@ -9,30 +9,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-### Profile Highlights
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Rlagnl?style=for-the-badge&label=Followers&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Rlagnl?style=for-the-badge&label=Stars&color=yellow" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/Rlagnl?style=for-the-badge&label=Repositories&color=green" alt="Repositories" />
-  <img src="https://img.shields.io/github/last-commit/Rlagnl/Rlagnl?style=for-the-badge&label=Last%20Commit&color=purple" alt="Last Commit" />
-</div>
-
-### Technology Stack
-<div align="center">
-  <img src="https://img.shields.io/github/languages/top/Rlagnl/Rlagnl?style=flat-square&label=Top%20Language" alt="Top Language" />
-  <img src="https://img.shields.io/github/languages/count/Rlagnl/Rlagnl?style=flat-square&label=Languages" alt="Languages" />
-  <img src="https://img.shields.io/github/repo-size/Rlagnl/Rlagnl?style=flat-square&label=Repo%20Size" alt="Repo Size" />
-</div>
-
-### GitHub Status
-<div align="center">
-  <a href="https://github.com/Rlagnl">
-    <img src="https://img.shields.io/github/created-at/Rlagnl/Rlagnl?style=flat-square&label=Account%20Created" alt="Account Created" />
-  </a>
-  <a href="https://github.com/Rlagnl">
-    <img src="https://img.shields.io/github/license/Rlagnl/Rlagnl?style=flat-square&label=License" alt="License" />
-  </a>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rlagnl&theme=algolia" width="500" height="250">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -48,6 +25,7 @@ Here are some ideas to get you started:
 ![Lerna](https://img.shields.io/badge/-Lerna-%23F05032?style=flat-square&color=%231F515C&logo=lerna)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![React](https://img.shields.io/badge/-react-%2361DAFB?style=flat-square&logo=react&logoColor=%23ffffff)
+![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 <!-- 
 - 👯 I’m looking to collaborate on ... 
